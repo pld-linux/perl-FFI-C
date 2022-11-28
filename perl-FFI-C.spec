@@ -4,7 +4,6 @@
 
 %define		pdir	FFI
 %define		pnam	C
-%include	/usr/lib/rpm/macros.perl
 Summary:	FFI::C - C data types for FFI
 Name:		perl-FFI-C
 Version:	0.15
